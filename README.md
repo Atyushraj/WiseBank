@@ -6,7 +6,7 @@ https://wise-bank-alpha.vercel.app/
 
 # WiseBank
 
-WiseBank is a static finance bank website designed to provide users with a seamless UI experience for managing their billing and invoicing needs. Built using React and Tailwind CSS, this project focuses on delivering a modern, responsive design with clean, scalable frontend code.
+WiseBank is a finance bank website designed to provide users with a seamless UI experience for managing their billing and invoicing needs. Built using React and Tailwind CSS, this project focuses on delivering a modern, responsive design with clean, scalable frontend code.
 
 ## Features
 
